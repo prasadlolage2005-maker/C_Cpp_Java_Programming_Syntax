@@ -5,6 +5,14 @@ Welcome to my Programming Syntax Repository! 🚀
 This repository contains my programming practice and syntax examples in C, C++, and Java. I created this repository to strengthen my programming fundamentals, understand language syntax, and build a strong foundation for software development.
 
 I am continuously learning and updating this repository with new programs.
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode,mysql" />
+</p>
+
+---
+
 
 ## 🎯 Objectives
 
