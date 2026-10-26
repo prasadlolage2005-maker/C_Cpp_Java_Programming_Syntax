@@ -1,107 +1,58 @@
-# 💻 Programming Syntax: C, C++ & Java
+<h1 align="center">⚡ Prasad Lolage</h1>
 
-Welcome to my Programming Syntax Repository! 🚀
-
-This repository contains my programming practice and syntax examples in C, C++, and Java. I created this repository to strengthen my programming fundamentals, understand language syntax, and build a strong foundation for software development.
-
-I am continuously learning and updating this repository with new programs.
-## 🛠️ Tech Stack
+<h3 align="center">💻 Aspiring Java Backend Developer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,vscode,mysql" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=450&lines=Code.+Learn.+Repeat.;Building+My+Future+with+Java+%E2%98%95" />
 </p>
 
 ---
 
+### 🖤 About Me
 
-## 🎯 Objectives
+* 🎓 Final-Year Computer Engineering Student
+* ☕ Aspiring Java Backend Developer
+* 💻 Passionate about programming and problem-solving
+* 🧠 Improving my logic-building skills every day
+* 🚀 Focused on learning, building projects, and growing as a developer
 
-* Learn the fundamentals of C, C++, and Java.
-* Understand the syntax and structure of each programming language.
-* Practice basic programming concepts.
-* Improve coding skills and problem-solving abilities.
-* Maintain a record of my programming journey on GitHub.
+---
 
-## 📚 Programming Languages
+### ⚡ Programming Languages
 
-### 🔹 1. C Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" />
+</p>
 
-Topics covered:
+### 🗄️ Databases
 
-* Basic program structure
-* Variables and data types
-* Input and output
-* Operators
-* Conditional statements
-* Loops
-* Functions
-* Arrays and strings
-* Pointers
-* Structures and unions
-* Dynamic memory allocation
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
 
-### 🔹 2. C++ Programming
+### 🚀 Frameworks
 
-Topics covered:
+<p>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" />
+</p>
 
-* Basic program structure
-* Variables and data types
-* Input and output (`cin`, `cout`)
-* Operators
-* Conditional statements
-* Loops
-* Functions
-* Arrays and strings
-* Pointers and references
-* Classes and objects
-* Constructors and destructors
-* Inheritance
-* Polymorphism
-* Dynamic memory allocation
+### 🛠️ Tools
 
-### 🔹 3. Java Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
 
-Topics covered:
+---
 
-* Basic program structure
-* Variables and data types
-* Input and output
-* Operators
-* Conditional statements
-* Loops
-* Methods
-* Arrays and strings
-* Classes and objects
-* Constructors
-* Inheritance
-* Polymorphism
-* Abstraction and encapsulation
-* Interfaces
-* Exception handling
-* Multithreading
-* Packages
+### 🌐 Connect With Me
 
-## 🛠️ Tools Used
+<p>   <a href="https://github.com/Prasadlolage2005">     <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000" />
+  </a>
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000" />
+  </a>
+</p>
 
-* Visual Studio Code — Code editor
-* GCC — C compiler
-* G++— C++ compiler
-* JDK— Java Development Kit
-* Git and GitHub — Version control and code management
+---
 
-## 💡 My Learning Approach
-
-1. Learn a programming concept.
-2. Understand its syntax.
-3. Write and execute programs.
-4. Test different inputs and outputs.
-5. Upload the programs to GitHub.
-6. Revise previous concepts and improve my coding skills.
-
-## 🌱 My Goal
-
-My goal is to develop strong programming fundamentals, improve my logical thinking, and prepare myself for software development internships and placement opportunities.
-
-I believe that **consistent practice is the key to becoming a better programmer.**
-
-This repository represents my continuous learning journey. 🚀
+<h3 align="center">🖤 Think Deep. Code Smart. Build Big. ⚡</h3>
