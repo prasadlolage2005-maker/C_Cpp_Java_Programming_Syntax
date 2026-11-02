@@ -48,7 +48,7 @@
 
 <p>   <a href="https://github.com/Prasadlolage2005">     <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000" />
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/prasad-lolage-2a355a292/">
     <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000" />
   </a>
 </p>
