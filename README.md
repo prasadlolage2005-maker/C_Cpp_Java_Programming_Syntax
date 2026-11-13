@@ -13,7 +13,6 @@
 * 🎓 Final-Year Computer Engineering Student
 * ☕ Aspiring Java Backend Developer
 * 💻 Passionate about programming and problem-solving
-* 🧠 Improving my logic-building skills every day
 * 🚀 Focused on learning, building projects, and growing as a developer
 
 ---
